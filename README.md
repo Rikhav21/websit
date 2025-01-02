@@ -1,0 +1,1 @@
+This is only a part of my rock paper scissors game that includes all of the parts necessary for the website. If you want the training data, scripts I used to gather the data, or anything that I did not use for the final website, that is in a different directory.
